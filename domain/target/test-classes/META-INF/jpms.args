@@ -1,4 +1,0 @@
---patch-module
-example.org.hexagonal.domain=_
---add-reads
-example.org.hexagonal.domain=ALL-UNNAMED
