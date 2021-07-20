@@ -1,4 +1,4 @@
-package hexagonal.application;
+package App;
 
 import org.apache.commons.lang3.StringUtils;
 

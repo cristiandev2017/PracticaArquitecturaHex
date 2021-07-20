@@ -1,6 +1,4 @@
 
-G
-infraestructure/pom.xml,0\6\06444eae0af3ad81bcdeeaa3410a83cc2331ca1a
 d
 4domain/src/main/java/repository/BooksRepository.java,5\f\5fd6fe24afed6486baf109ba96d277ccfb5ad7aa
 c
